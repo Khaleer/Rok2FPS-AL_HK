@@ -1,0 +1,1295 @@
+﻿Log file open, 03/22/23 22:17:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=18352)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FirstPersonShooter
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/FirstPersonShooter.uproject" -EpicPortal -epicusername=Khaleer -epicuserid=1d829fbfd9c242f39de9cf9d215aa1f8 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1413] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="62df9e4645a407f396b6d58f86064aa3"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.238677
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F9333C2A4A2A34B94BF2DFAFBAC30117
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.01 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1413] (), CPU: 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz, GPU: NVIDIA GeForce RTX 3050
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Khaleer -epicuserid=1d829fbfd9c242f39de9cf9d215aa1f8 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Unreal_shit/ue5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.22-21.17.43:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.22-21.17.43:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.22-21.17.43:000][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.22-21.17.43:002][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.22-21.17.43:014][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.22-21.17.43:018][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     DeviceId    : 2507
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     SubSysId    : c9791462
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     DedicatedVideoMemory : 8447328256 bytes
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     SharedSystemMemory : 8521361408 bytes
+[2023.03.22-21.17.43:019][  0]LogD3D11RHI:     AdapterLuid : 0 72510
+[2023.03.22-21.17.43:140][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050' (Feature Level 11_1)
+[2023.03.22-21.17.43:140][  0]LogD3D11RHI:       8056/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     Revision    : 0000
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     SharedSystemMemory : 8521361408 bytes
+[2023.03.22-21.17.43:141][  0]LogD3D11RHI:     AdapterLuid : 0 76255
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     DeviceId    : 2507
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     SubSysId    : c9791462
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     DedicatedVideoMemory : 8447328256 bytes
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     SharedSystemMemory : 8521361408 bytes
+[2023.03.22-21.17.43:143][  0]LogD3D11RHI:     AdapterLuid : 0 72510
+[2023.03.22-21.17.43:143][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.22-21.17.43:143][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.22-21.17.43:143][  0]LogHAL: Display: Platform has ~ 16 GB [17042722816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.22-21.17.43:143][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.22-21.17.43:143][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.22-21.17.43:143][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.22-21.17.43:143][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.22-21.17.43:143][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.22-21.17.43:143][  0]LogInit: Computer: DESKTOP-70LG6PP
+[2023.03.22-21.17.43:143][  0]LogInit: User: Windows11
+[2023.03.22-21.17.43:143][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.22-21.17.43:143][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.22-21.17.43:143][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.03.22-21.17.43:143][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.22-21.17.43:143][  0]LogMemory: Process Physical Memory: 263.19 MB used, 273.19 MB peak
+[2023.03.22-21.17.43:143][  0]LogMemory: Process Virtual Memory: 221.26 MB used, 221.26 MB peak
+[2023.03.22-21.17.43:143][  0]LogMemory: Physical Memory: 10540.70 MB used,  5712.51 MB free, 16253.21 MB total
+[2023.03.22-21.17.43:143][  0]LogMemory: Virtual Memory: 18249.62 MB used,  6707.59 MB free, 24957.21 MB total
+[2023.03.22-21.17.43:143][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.22-21.17.43:148][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.22-21.17.43:160][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.22-21.17.43:161][  0]LogInit: Using OS detected language (en-GB).
+[2023.03.22-21.17.43:161][  0]LogInit: Using OS detected locale (en-GB).
+[2023.03.22-21.17.43:162][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.03.22-21.17.43:275][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.22-21.17.43:286][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.22-21.17.43:286][  0]LogWindowsTextInputMethodSystem:   - Polish (Poland) - (Keyboard).
+[2023.03.22-21.17.43:286][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2023.03.22-21.17.43:286][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.03.22-21.17.43:287][  0]LogWindowsTextInputMethodSystem: Activated input method: Polish (Poland) - (Keyboard).
+[2023.03.22-21.17.43:297][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.22-21.17.43:297][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.22-21.17.43:425][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.22-21.17.43:425][  0]LogD3D11RHI:     GPU DeviceId: 0x2507 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.22-21.17.43:425][  0]LogWindows: Attached monitors:
+[2023.03.22-21.17.43:425][  0]LogWindows:     resolution: 1920x1080, work area: (0, 1080) -> (1920, 2112), device: '\\.\DISPLAY1'
+[2023.03.22-21.17.43:425][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY2' [PRIMARY]
+[2023.03.22-21.17.43:425][  0]LogWindows: Found 2 attached monitors.
+[2023.03.22-21.17.43:425][  0]LogWindows: EnumDisplayDevices:
+[2023.03.22-21.17.43:425][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3050' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.03.22-21.17.43:425][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3050' (P:1 D:1), name: '\\.\DISPLAY2'
+[2023.03.22-21.17.43:425][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3050' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.22-21.17.43:425][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3050' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.22-21.17.43:426][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:   Driver Version: 531.29 (internal:31.0.15.3129, unified:531.29)
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:      Driver Date: 3-8-2023
+[2023.03.22-21.17.43:426][  0]LogRHI: Texture pool is 5639 MB (70% of 8056 MB)
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     DeviceId    : 2507
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     SubSysId    : c9791462
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     DedicatedVideoMemory : 8447328256 bytes
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     SharedSystemMemory : 8521361408 bytes
+[2023.03.22-21.17.43:426][  0]LogD3D11RHI:     AdapterLuid : 0 72510
+[2023.03.22-21.17.43:486][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.22-21.17.43:486][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.22-21.17.43:486][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.03.22-21.17.43:486][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.22-21.17.43:513][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.03.22-21.17.43:531][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.22-21.17.43:536][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/FirstPersonShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/TurnkeyReport_0.log" -log="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/TurnkeyLog_0.log" -project="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/FirstPersonShooter.uproject"  -platform=all'
+[2023.03.22-21.17.43:537][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Unreal_shit/ue5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/FirstPersonShooter.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/TurnkeyReport_0.log" -log="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/TurnkeyLog_0.log" -project="D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/FirstPersonShooter.uproject"  -platform=all" ]
+[2023.03.22-21.17.43:558][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.22-21.17.43:564][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.22-21.17.43:564][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.22-21.17.43:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.22-21.17.43:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.22-21.17.43:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.22-21.17.43:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.22-21.17.43:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.22-21.17.43:591][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.22-21.17.43:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.22-21.17.43:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.22-21.17.43:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.22-21.17.43:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.22-21.17.43:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.22-21.17.43:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.22-21.17.43:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.22-21.17.43:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.22-21.17.43:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.22-21.17.43:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.22-21.17.43:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.22-21.17.43:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.22-21.17.43:603][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.22-21.17.43:609][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.22-21.17.43:612][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.22-21.17.43:612][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.22-21.17.43:612][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.22-21.17.43:612][  0]LogTargetPlatformManager:   PCM
+[2023.03.22-21.17.43:614][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.22-21.17.43:614][  0]LogTargetPlatformManager:   BINKA
+[2023.03.22-21.17.43:614][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.22-21.17.43:614][  0]LogTargetPlatformManager:   OGG
+[2023.03.22-21.17.43:614][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.22-21.17.43:614][  0]LogTargetPlatformManager:   OPUS
+[2023.03.22-21.17.43:648][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2023.03.22-21.17.43:648][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.22-21.17.43:653][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.22-21.17.43:655][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.22-21.17.43:655][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.22-21.17.43:656][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.22-21.17.43:656][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.22-21.17.43:656][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.22-21.17.43:656][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.03.22-21.17.43:658][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.22-21.17.43:658][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.22-21.17.43:658][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.22-21.17.43:658][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.22-21.17.43:673][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.22-21.17.43:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.22-21.17.43:673][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.22-21.17.43:677][  0]LogDerivedDataCache: Speed tests for C:/Users/Windows11/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.03.22-21.17.43:678][  0]LogDerivedDataCache: Display: Performance to C:/Users/Windows11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1935.24MBs, RandomWriteSpeed=270.20MBs. Assigned SpeedClass 'Local'
+[2023.03.22-21.17.43:678][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Windows11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.22-21.17.43:678][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.22-21.17.43:678][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.22-21.17.43:682][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.22-21.17.43:682][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.22-21.17.43:683][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Intermediate/Shaders/WorkingDirectory/22312/).
+[2023.03.22-21.17.43:683][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Windows11/AppData/Local/Temp/UnrealShaderWorkingDir/5EBB73634D0A41EE0ED502BFD995CA3B/'.
+[2023.03.22-21.17.43:683][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.22-21.17.43:683][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.03.22-21.17.44:833][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.22-21.17.44:834][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.22-21.17.44:860][  0]LogAssetRegistry: FAssetRegistry took 0.0082 seconds to start up
+[2023.03.22-21.17.44:864][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.22-21.17.45:022][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.22-21.17.45:023][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.22-21.17.45:191][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.22-21.17.45:191][  0]LogDeviceProfileManager: Active device profile: [000008D039FE5940][000008D01A725000 50] WindowsEditor
+[2023.03.22-21.17.45:191][  0]LogDeviceProfileManager: Profiles: [000008D039FE5400][000008D02AE7C800 50] Windows, [000008D039FE5940][000008D01A725000 50] WindowsEditor, [000008D039FE39C0][000008D02E670000 50] WindowsServer, [000008D039FE0E00][000008D03A1B0000 50] WindowsClient, [000008D039FE1500][000008D03A1B5000 50] IOS, [000008D039FE4EC0][000008D03A1B7800 50] iPadAir2, [000008D039FE4D00][000008D03A1BC800 50] IPadPro, [000008D039FE4B40][000008D03A1BA000 50] iPadAir3, [000008D039FE5240][000008D02E672800 50] iPadAir4, [000008D039FE3B80][000008D03A1C0000 50] iPadMini4, [000008D039FE3800][000008D03A1C5000 50] iPadMini5, [000008D039FE32C0][000008D03A1C7800 50] iPadMini6, [000008D039FE86C0][000008D03A1B2800 50] iPhone6S, [000008D039FE8A40][000008D03A1CC800 50] iPhone7, [000008D039FE63C0][000008D03A1CA000 50] iPodTouch7, [000008D039FE7540][000008D03A220000 50] iPhone6SPlus, [000008D039FE2840][000008D03A225000 50] iPhone7Plus, [000008D039FE1880][000008D03A227800 50] iPhoneSE, [000008D039FE6900][000008D03A22A000 50] iPhone8, [000008D039FE5E80][000008D03A22C800 50] iPhone8Plus, [000008D039FE08C0][000008D03A1C2800 50] iPhoneX, [000008D039FE1F80][000008D03A230000 50] iPhoneXS, [000008D039FE0FC0][000008D03A235000 50] iPhoneXSMax, [000008D039FE7C40][000008D03A237800 50] iPhoneXR, [000008D039FE3D40][000008D03A23A000 50] iPhone11, [000008D039FE71C0][000008D03A23C800 50] iPhone11Pro, [000008D039FE3480][000008D03A222800 50] iPhone11ProMax, [000008D039FE6740][000008D03A240000 50] iPhoneSE2, [000008D039FE2300][000008D03A245000 50] iPhone12Mini, [000008D039FE6580][000008D03A247800 50] iPhone12, [000008D039FE1A40][000008D03A24A000 50] iPhone12Pro, [000008D039FE7A80][000008D03A24C800 50] iPhone12ProMax, [000008D039FE2D80][000008D03A232800 50] iPhone13Mini, [000008D039FE7380][000008D03A250000 50] iPhone13, [000008D039FE7FC0][000008D03A255000 50] iPhone13Pro, [000008D039FE5780][000008D03A257800 50] iPhone13ProMax, [000008D039FE8500][000008D03A25A000 50] iPadPro105, [000008D039FE47C0][000008D03A25C800 50] iPadPro129, [000008D039FE78C0][000008D03A242800 50] iPadPro97, [000008D039FE4600][000008D03A260000 50] iPadPro2_129, [000008D039FE7000][000008D03A265000 50] iPad5, [000008D039FE40C0][000008D03A267800 50] iPad6, [000008D039FE8340][000008D03A26A000 50] iPad7, [000008D039FE8180][000008D03A26C800 50] iPad8, [000008D039FE5080][000008D03A252800 50] iPad9, [000008D039FE1C00][000008D03A270000 50] iPadPro11, [000008D039FE6C80][000008D03A275000 50] iPadPro2_11, [000008D039FE16C0][000008D03A277800 50] iPadPro3_11, [000008D039FE2140][000008D03A27A000 50] iPadPro3_129, [000008D039FE8C00][000008D03A27C800 50] iPadPro4_129, [000008D039FE6AC0][000008D03A262800 50] iPadPro5_129, [000008D039FE6E40][000008D03A280000 50] AppleTV, [000008D039FE2680][000008D03A285000 50] AppleTV4K, [000008D039FE8F80][000008D03A287800 50] TVOS, [000008D039FEB440][000008D03A28C800 50] Mac, [000008D039FEB7C0][000008D03A28A000 50] MacEditor, [000008D039FE9F40][000008D03A272800 50] MacClient, [000008D039FE1180][000008D03A290000 50] MacServer, [000008D039FE1340][000008D03A297800 50] Linux, [000008D039FEBEC0][000008D03A295000 50] LinuxEditor, [000008D039FE3F00][000008D03A29A000 50] LinuxArm64Editor, [000008D039FE3640][000008D03A29C800 50] LinuxArm64, [000008D039FE2BC0][000008D03A282800 50] LinuxClient, [000008D039FEC080][000008D03A2A0000 50] LinuxArm64Client, [000008D039FE1DC0][000008D03A2A5000 50] LinuxServer, [000008D039FE3100][000008D03A2A7800 50] LinuxArm64Server, [000008D039FE4980][000008D03A2AA000 50] Android, [000008D039FE4280][000008D03A2AC800 50] Android_Preview_OpenGL, [000008D039FEA9C0][000008D03A292800 50] Android_Preview_Vulkan, [000008D039FEB980][000008D03A2C0000 50] Android_Low, [000008D039FEA480][000008D03A2C5000 50] Android_Mid, [000008D039FE5CC0][000008D03A2C7800 50] Android_High, [000008D039FE94C0][000008D03A2CA000 50] Android_Default, [000008D039FEAF00][000008D03A2CC800 50] Android_Adreno4xx, [000008D039FEB600][000008D03A2A2800 50] Android_Adreno5xx_Low, [000008D039FEC940][000008D03A2D0000 50] Android_Adreno5xx, [000008D039FE9A00][000008D03A2D5000 50] Android_Adreno6xx, [000008D039FE8DC0][000008D03A2D7800 50] Android_Adreno6xx_Vulkan, [000008D039FEC780][000008D03A2DA000 50] Android_Adreno7xx, [000008D039FE24C0][000008D03A2DC800 50] Android_Adreno7xx_Vulkan, [000008D039FEA100][000008D03A2C2800 50] Android_Mali_T6xx, [000008D039FEBD00][000008D03A2E0000 50] Android_Mali_T7xx, [000008D039FE6200][000008D03A2E5000 50] Android_Mali_T8xx, [000008D039FE8880][000008D03A2E7800 50] Android_Mali_G71, [000008D039FE7700][000008D03A2EA000 50] Android_Mali_G72, [000008D039FE9680][000008D03A2EC800 50] Android_Mali_G72_Vulkan, [000008D039FE7E00][000008D03A2D2800 50] Android_Mali_G76, [000008D039FECCC0][000008D03A2F0000 50] Android_Mali_G76_Vulkan, [000008D039FE9BC0][000008D03A2F5000 50] Android_Mali_G77, [000008D039FE9300][000008D03A2F7800 50] Android_Mali_G77_Vulkan, [000008D039FEB280][000008D03A2FA000 50] Android_Mali_G78, [000008D039FE9140][000008D03A2FC800 50] Android_Mali_G78_Vulkan, [000008D039FE5B00][000008D03A2E2800 50] Android_Mali_G710, [000008D039FEAB80][000008D03A300000 50] Android_Mali_G710_Vulkan, [000008D039FEC400][000008D03A305000 50] Android_Xclipse_920, [000008D039FECE80][000008D03A307800 50] Android_Xclipse_920_Vulkan, [000008D039FED580][000008D03A30A000 50] Android_Vulkan_SM5, [000008D039FED200][000008D03A30C800 50] Android_PowerVR_G6xxx, [000008D039FED740][000008D03A2F2800 50] Android_PowerVR_GT7xxx, [000008D039FEA800][000008D03A310000 50] Android_PowerVR_GE8xxx, [000008D039FEEA80][000008D03A315000 50] Android_PowerVR_GM9xxx, [000008D039FEA2C0][000008D03A317800 50] Android_PowerVR_GM9xxx_Vulkan, [000008D039FEDE40][000008D03A31A000 50] Android_TegraK1, [000008D039FEDC80][000008D03A31C800 50] Android_Unknown_Vulkan, [000008D039FEE380][000008D03A302800 50] Oculus_Quest, [000008D039FEC5C0][000008D03A320000 50] Oculus_Quest2, [000008D039FEE000][000008D03A325000 50] HoloLens, 
+[2023.03.22-21.17.45:192][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.22-21.17.45:209][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.22-21.17.45:380][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.22-21.17.45:380][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.22-21.17.45:380][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.22-21.17.45:380][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.22-21.17.45:380][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.22-21.17.45:392][  0]LogNetVersion: FirstPersonShooter 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 372950203)
+[2023.03.22-21.17.45:494][  0]LogSlate: Border
+[2023.03.22-21.17.45:494][  0]LogSlate: BreadcrumbButton
+[2023.03.22-21.17.45:494][  0]LogSlate: Default
+[2023.03.22-21.17.45:494][  0]LogSlate: Icons.Save
+[2023.03.22-21.17.45:494][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.22-21.17.45:494][  0]LogSlate: ListView
+[2023.03.22-21.17.45:494][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.22-21.17.45:494][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.22-21.17.45:494][  0]LogSlate: TableView.DarkRow
+[2023.03.22-21.17.45:494][  0]LogSlate: TableView.Row
+[2023.03.22-21.17.45:494][  0]LogSlate: TreeView
+[2023.03.22-21.17.45:633][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.45:655][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.45:655][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.45:750][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.22-21.17.45:750][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.03.22-21.17.45:750][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.22-21.17.45:942][  0]LogPython: Using Python 3.9.7
+[2023.03.22-21.17.46:607][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8F62BA1E45D4A11849A8EE9239B3533B | Instance: 02700D9C458A86935817C081CD50FF6C (DESKTOP-70LG6PP-22312).
+[2023.03.22-21.17.46:662][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.22-21.17.46:666][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.22-21.17.46:742][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.46:744][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.46:747][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.46:760][  0]LogUProjectInfo: Found projects:
+[2023.03.22-21.17.46:877][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.22-21.17.47:021][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.22-21.17.47:040][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.22-21.17.47:040][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.22-21.17.47:161][  0]LogCollectionManager: Loaded 0 collections in 0.000669 seconds
+[2023.03.22-21.17.47:188][  0]LogFileCache: Scanning file cache for directory 'D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/Collections/' took 0.00s
+[2023.03.22-21.17.47:188][  0]LogFileCache: Scanning file cache for directory 'D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Developers/Windows11/Collections/' took 0.00s
+[2023.03.22-21.17.47:188][  0]LogFileCache: Scanning file cache for directory 'D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Collections/' took 0.00s
+[2023.03.22-21.17.47:418][  0]LogEngine: Initializing Engine...
+[2023.03.22-21.17.47:428][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.22-21.17.47:631][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.22-21.17.47:632][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.22-21.17.47:640][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-21.17.47:662][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.22-21.17.47:663][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.22-21.17.47:683][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.22-21.17.47:684][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-21.17.47:684][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-21.17.47:688][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.22-21.17.47:709][  0]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (3- USB PnP Audio Device)
+[2023.03.22-21.17.47:709][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-21.17.47:711][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-21.17.47:711][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-21.17.47:711][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.22-21.17.47:711][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.22-21.17.47:712][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.22-21.17.47:712][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.22-21.17.47:712][  0]LogInit: FAudioDevice initialized.
+[2023.03.22-21.17.47:713][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.22-21.17.47:713][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.22-21.17.47:713][  0]LogInit: Texture streaming: Enabled
+[2023.03.22-21.17.47:740][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.22-21.17.47:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.22-21.17.47:765][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.22-21.17.47:771][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.22-21.17.47:771][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.22-21.17.48:757][  0]LogLiveCoding: Display: First instance in process group "UE_FirstPersonShooter_0x794c1574", spawning console
+[2023.03.22-21.17.48:757][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.22-21.17.48:757][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.22-21.17.48:772][  0]LogInit: Transaction tracking system initialized
+[2023.03.22-21.17.48:831][  0]BlueprintLog: New page: Editor Load
+[2023.03.22-21.17.48:990][  0]LocalizationService: Localization service is disabled
+[2023.03.22-21.17.49:028][  0]TimingProfiler: Initialize
+[2023.03.22-21.17.49:028][  0]TimingProfiler: OnSessionChanged
+[2023.03.22-21.17.49:028][  0]LoadingProfiler: Initialize
+[2023.03.22-21.17.49:028][  0]LoadingProfiler: OnSessionChanged
+[2023.03.22-21.17.49:028][  0]NetworkingProfiler: Initialize
+[2023.03.22-21.17.49:028][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.22-21.17.49:028][  0]MemoryProfiler: Initialize
+[2023.03.22-21.17.49:028][  0]MemoryProfiler: OnSessionChanged
+[2023.03.22-21.17.49:551][  0]LogFileCache: Scanning file cache for directory 'D:/fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/' took 0.02s
+[2023.03.22-21.17.49:551][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.22-21.17.49:645][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.22-21.17.49:647][  0]SourceControl: Source control is disabled
+[2023.03.22-21.17.49:647][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.470
+[2023.03.22-21.17.49:648][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.22-21.17.49:648][  0]LightingResults: New page: Lighting Build
+[2023.03.22-21.17.49:652][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-21.17.49:652][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-21.17.49:652][  0]MapCheck: New page: Map Check
+[2023.03.22-21.17.49:652][  0]LightingResults: New page: Lighting Build
+[2023.03.22-21.17.49:658][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-21.17.49:660][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.22-21.17.49:708][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.03.22-21.17.49:713][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-21.17.49:713][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.22-21.17.49:713][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.22-21.17.49:713][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.22-21.17.49:912][  0]LogWorldPartition: Display: WorldPartition initialize took 197 ms
+[2023.03.22-21.17.50:069][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.22-21.17.50:074][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.22-21.17.50:075][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.22-21.17.50:084][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.869ms to complete.
+[2023.03.22-21.17.50:084][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.437
+[2023.03.22-21.17.50:091][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.914
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: ================================================
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.22-21.17.50:091][  0]LogShaderCompilers: Display: ================================================
+[2023.03.22-21.17.50:182][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.17.50:188][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.17.50:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.17.50:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-21.17.50:244][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:244][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:244][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:244][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:245][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:245][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:246][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:246][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:247][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:247][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:247][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:247][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:248][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:248][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:248][  0]LogPakFile: Display: Mounted Pak file 'D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.22-21.17.50:248][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.22-21.17.50:249][  0]LogFeaturePack: Error: Error in Feature pack D:/Unreal_shit/ue5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.22-21.17.50:361][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.22-21.17.50:362][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.22-21.17.50:365][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.22-21.17.50:365][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.22-21.17.50:387][  0]LogViewport: Scene viewport resized to 1170x894, mode Windowed.
+[2023.03.22-21.17.51:057][  0]LogStall: Startup...
+[2023.03.22-21.17.51:058][  0]LogStall: Startup complete.
+[2023.03.22-21.17.51:071][  0]LogLoad: (Engine Initialization) Total time: 8.89 seconds
+[2023.03.22-21.17.51:071][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.22-21.17.51:087][  0]LogAssetRegistry: Asset discovery search completed in 6.2278 seconds
+[2023.03.22-21.17.51:090][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.22-21.17.51:091][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.22-21.18.24:031][ 90]LogSlate: Took 0.012560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.22-21.18.24:043][ 90]LogSlate: Took 0.007799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.22-21.18.34:507][ 69]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.22-21.18.34:507][ 69]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.22-21.18.37:051][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/B_N.B_N (TFO_BC5, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:051][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BB_D.BB_D (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:051][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BG_D.BG_D (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:052][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_MASK1.T_MASK1 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:052][331]LogMaterial: Display: Missing cached shadermap for M_base in PCD3D_SM5, Default, SM5 (DDC key hash: 8D91F01D1866C24B3B020D78DE96A20F12470B30), compiling. 
+[2023.03.22-21.18.37:519][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_N.T_Barrel01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:519][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_D.T_Barrel01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:519][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_MASK2.T_MASK2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:519][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Barrel01_SRM.T_Barrel01_SRM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:519][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_D.T_Box01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:519][331]LogMaterial: Display: Missing cached shadermap for MI_Barrel01_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E67FA9E1799E6699B176F771AE3D21BAE80FA2AB), compiling. 
+[2023.03.22-21.18.37:847][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_N.T_Box01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.37:847][331]LogMaterial: Display: Missing cached shadermap for MI_Barrel01_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 651DBDE4CB1FC77AED0EB04E8121F158666C08A6), compiling. 
+[2023.03.22-21.18.38:141][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Cartonbox01_D.T_Cartonbox01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:141][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Cartonbox01_N.T_Cartonbox01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:141][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Cartonbox01_SRM.T_Cartonbox01_SRM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:141][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Box01_SRM.T_Box01_SRM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:141][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_D.T_Hose_D (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:141][331]LogMaterial: Display: Missing cached shadermap for MI_Barrel01_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 856E771E9973779F757E7B9138BD0D6C5990A409), compiling. 
+[2023.03.22-21.18.38:477][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_N.T_Hose_N (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:477][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Hose_SRM.T_Hose_SRM (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:477][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Newspaper01_D.T_Newspaper01_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:477][331]LogMaterial: Display: Missing cached shadermap for MI_Barrel01_6 in PCD3D_SM5, Default, SM5 (DDC key hash: D9CE4F7322724F984B103EC022320F78126B1BED), compiling. 
+[2023.03.22-21.18.38:774][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Newspaper01_N.T_Newspaper01_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:774][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Newspaper01_SRM.T_Newspaper01_SRM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:774][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Rack_D.T_Rack_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.38:774][331]LogMaterial: Display: Missing cached shadermap for MI_Box01_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 003CBDD8DAE7D0C6B8B425255739494EFE3A59FF), compiling. 
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Rack_N.T_Rack_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Rack_SRM.T_Rack_SRM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp01_SRM.T_Tarp01_SRM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_TrafficBarrel01_N.T_TrafficBarrel01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_TrafficBarrel01_D.T_TrafficBarrel01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp02_D.T_Tarp02_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp01_N.T_Tarp01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:112][331]LogMaterial: Display: Missing cached shadermap for MI_Box01_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 7DD1B0E73925A253F45AC6B01EFEBB08DE89EA42), compiling. 
+[2023.03.22-21.18.39:464][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_TrafficBarrel01_SRM.T_TrafficBarrel01_SRM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:464][331]LogMaterial: Display: Missing cached shadermap for MI_Cartonbox01_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FD8CCEB7C23B40475326347AA41C6C8BFFEF29D8), compiling. 
+[2023.03.22-21.18.39:795][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_WaterTank01_D.T_WaterTank01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.39:795][331]LogMaterial: Display: Missing cached shadermap for MI_Cartonbox01_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DEEBE05B5BE643D56E4669228872B9113F71D4F), compiling. 
+[2023.03.22-21.18.40:128][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_WaterTank01_N.T_WaterTank01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.40:128][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp01_D.T_Tarp01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.40:128][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_WaterTank01_SRM.T_WaterTank01_SRM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.40:128][331]LogMaterial: Display: Missing cached shadermap for MI_Gray in PCD3D_SM5, Default, SM5 (DDC key hash: EF6E327B1E8EBD113DA3FD0309843DE31076D777), compiling. 
+[2023.03.22-21.18.40:422][331]LogMaterial: Display: Missing cached shadermap for MI_Hose01_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 44D1F3F4F2A0B257BF509219FA7C1C83DE1DEA58), compiling. 
+[2023.03.22-21.18.40:730][331]LogMaterial: Display: Missing cached shadermap for MI_Newspaper01_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3346E0F499B2393F0A2B0B39E987EF0139C9B123), compiling. 
+[2023.03.22-21.18.41:084][331]LogMaterial: Display: Missing cached shadermap for MI_Rack01_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 64677BC5183CA4C11DAB0A3B296DFA7B52BE0F2E), compiling. 
+[2023.03.22-21.18.41:365][331]LogMaterial: Display: Missing cached shadermap for MI_Tarp01_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B4B3BC4C88ACDBADE7DF9DAC6493302B032D234A), compiling. 
+[2023.03.22-21.18.41:677][331]LogMaterial: Display: Missing cached shadermap for MI_TrafficBarrel01_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 55097996DA981378C6C39D8781A7551770A4D256), compiling. 
+[2023.03.22-21.18.41:977][331]LogMaterial: Display: Missing cached shadermap for MI_WaterTank01 in PCD3D_SM5, Default, SM5 (DDC key hash: 21D130CF271218352F3E1393591C83D14A88FC06), compiling. 
+[2023.03.22-21.18.42:493][331]LogStaticMesh: Display: Building static mesh SM_Barrel03...
+[2023.03.22-21.18.42:493][331]LogStaticMesh: Display: Building static mesh SM_Barrel02...
+[2023.03.22-21.18.42:493][331]LogStaticMesh: Display: Building static mesh SM_Box01...
+[2023.03.22-21.18.42:493][331]LogStaticMesh: Display: Building static mesh SM_Barrel01...
+[2023.03.22-21.18.42:493][331]LogStaticMesh: Display: Building static mesh SM_Barrel04...
+[2023.03.22-21.18.42:763][331]LogStaticMesh: Built static mesh [0.53s] /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.03.22-21.18.42:763][331]LogStaticMesh: Built static mesh [0.53s] /Game/IndustryPropsPack6/Meshes/SM_Barrel02.SM_Barrel02
+[2023.03.22-21.18.42:763][331]LogStaticMesh: Display: Building static mesh SM_Barrel03...
+[2023.03.22-21.18.42:763][331]LogStaticMesh: Display: Building static mesh SM_Barrel02...
+[2023.03.22-21.18.42:763][331]LogStaticMesh: Built static mesh [0.58s] /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.03.22-21.18.42:763][331]LogStaticMesh: Display: Building static mesh SM_Barrel01...
+[2023.03.22-21.18.42:803][331]LogMaterial: Display: Missing cached shadermap for MI_Newspaper01_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 98959A61012D0592D61488B681DF55BAB0E12F21), compiling. 
+[2023.03.22-21.18.43:142][331]LogStaticMesh: Built static mesh [0.91s] /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.03.22-21.18.43:142][331]LogStaticMesh: Display: Building static mesh SM_Box01...
+[2023.03.22-21.18.43:142][331]LogStaticMesh: Built static mesh [0.41s] /Game/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.03.22-21.18.43:236][331]LogStaticMesh: Display: Building static mesh SM_Box02...
+[2023.03.22-21.18.43:236][331]LogStaticMesh: Built static mesh [0.48s] /Game/IndustryPropsPack6/Meshes/SM_Barrel02.SM_Barrel02
+[2023.03.22-21.18.43:236][331]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/IndustryPropsPack6/Textures/BaseTextures/TC_HDR01.TC_HDR01', its maximum texture size has been explicitly set to 512.
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Built static mesh [0.56s] /Game/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Display: Building static mesh SM_CartonBox01...
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Built static mesh [0.01s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox01.SM_CartonBox01
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Display: Building static mesh SM_CartonBox01...
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Built static mesh [0.01s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox01.SM_CartonBox01
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Display: Building static mesh SM_CartonBox02...
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Display: Building static mesh SM_Box03...
+[2023.03.22-21.18.43:315][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox02.SM_CartonBox02
+[2023.03.22-21.18.43:330][331]LogStaticMesh: Display: Building static mesh SM_CartonBox02...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.01s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox02.SM_CartonBox02
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonBox03...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox03.SM_CartonBox03
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonBox03...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonBox03.SM_CartonBox03
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage01...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage01...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage02...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.04s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage02.SM_CartonGarbage02
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage02...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage02.SM_CartonGarbage02
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage03...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage03.SM_CartonGarbage03
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage03...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage03.SM_CartonGarbage03
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage04...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage04.SM_CartonGarbage04
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage04...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.02s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage04.SM_CartonGarbage04
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage05...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.04s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage05...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.03s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage06...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.04s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage06.SM_CartonGarbage06
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage06...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.04s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage06.SM_CartonGarbage06
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage07...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.13s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage07.SM_CartonGarbage07
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage07...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.80s] /Game/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Built static mesh [0.92s] /Game/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_Box02...
+[2023.03.22-21.18.43:992][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage08...
+[2023.03.22-21.18.43:992][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Showcase.Showcase_C' ref from Metadata '/Game/IndustryPropsPack6/Maps/Showcase.PackageMetaData'
+[2023.03.22-21.18.43:992][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Showcase.SKEL_Showcase_C:ReceiveBeginPlay' ref from Metadata '/Game/IndustryPropsPack6/Maps/Showcase.PackageMetaData'
+[2023.03.22-21.18.43:992][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Showcase.SKEL_Showcase_C:ReceiveTick' ref from Metadata '/Game/IndustryPropsPack6/Maps/Showcase.PackageMetaData'
+[2023.03.22-21.18.43:992][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Showcase.SKEL_Showcase_C' ref from Metadata '/Game/IndustryPropsPack6/Maps/Showcase.PackageMetaData'
+[2023.03.22-21.18.44:109][331]LogStaticMesh: Built static mesh [0.12s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage07.SM_CartonGarbage07
+[2023.03.22-21.18.44:109][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage09...
+[2023.03.22-21.18.44:109][331]LogStaticMesh: Built static mesh [0.07s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage08.SM_CartonGarbage08
+[2023.03.22-21.18.44:109][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage08...
+[2023.03.22-21.18.44:109][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Maps/Overview.HQ_Lightmap0_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.44:110][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Maps/Overview.LQ_Lightmap_0_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.44:112][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Maps/Overview.SkyOcclusion1_2 (TFO_AutoDXT, 64X32 X1X1) (Required Memory Estimate: 0.05209 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.44:113][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Overview.Overview_C' ref from Metadata '/Game/IndustryPropsPack6/Maps/Overview.PackageMetaData'
+[2023.03.22-21.18.44:113][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Overview.SKEL_Overview_C:ReceiveBeginPlay' ref from Metadata '/Game/IndustryPropsPack6/Maps/Overview.PackageMetaData'
+[2023.03.22-21.18.44:113][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Overview.SKEL_Overview_C:ReceiveTick' ref from Metadata '/Game/IndustryPropsPack6/Maps/Overview.PackageMetaData'
+[2023.03.22-21.18.44:113][331]LogMetaData: Removing '/Game/Assets/IndustryPropsPack6/Maps/Overview.SKEL_Overview_C' ref from Metadata '/Game/IndustryPropsPack6/Maps/Overview.PackageMetaData'
+[2023.03.22-21.18.44:545][331]LogStaticMesh: Built static mesh [0.06s] /Game/IndustryPropsPack6/Meshes/SM_CartonGarbage08.SM_CartonGarbage08
+[2023.03.22-21.18.44:545][331]LogStaticMesh: Display: Building static mesh SM_Hose01...
+[2023.03.22-21.18.44:545][331]LogStaticMesh: Built static mesh [0.24s] /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09
+[2023.03.22-21.18.44:545][331]LogStaticMesh: Display: Building static mesh SM_CartonGarbage09...
+[2023.03.22-21.18.44:545][331]LogStaticMesh: Built static mesh [0.39s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.03.22-21.18.44:545][331]LogStaticMesh: Display: Building static mesh SM_Hose01...
+[2023.03.22-21.18.44:545][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/T_Tarp02_N.T_Tarp02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.27s] /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Newspaper01...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper01.SM_Newspaper01
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Newspaper02...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper02.SM_Newspaper02
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Newspaper03...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.78s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Pallet01...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper03.SM_Newspaper03
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Rack01...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.39s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Rack02...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Rack01...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Rack02...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.26s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Pallet01.SM_Pallet01
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Pallet01...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Display: Building static mesh SM_Tarp01...
+[2023.03.22-21.18.45:104][331]LogStaticMesh: Built static mesh [0.14s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.03.22-21.18.45:104][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_gradient_D.T_gradient_D (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:172][331]LogStaticMesh: Display: Building static mesh SM_Tarp02...
+[2023.03.22-21.18.45:172][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/T_Dirt_N.T_Dirt_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:259][331]LogStaticMesh: Built static mesh [1.89s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.03.22-21.18.45:259][331]LogStaticMesh: Built static mesh [3.02s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.03.22-21.18.45:259][331]LogStaticMesh: Display: Building static mesh SM_TrafficBarrel01...
+[2023.03.22-21.18.45:259][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/TC_HDR02.TC_HDR02 (RGBA16F, 256X256 X1X1) (Required Memory Estimate: 15.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:273][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/TC_HDR01.TC_HDR01 (RGBA16F, 512X256 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:362][331]LogStaticMesh: Display: Building static mesh SM_WaterTank01...
+[2023.03.22-21.18.45:362][331]LogStaticMesh: Built static mesh [0.25s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Pallet01.SM_Pallet01
+[2023.03.22-21.18.45:362][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Textures/BaseTextures/BW_D.BW_D (TFO_AutoDXT, 8X8 X1X1) (Required Memory Estimate: 0.001221 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:362][331]LogTexture: Display: Building textures: /Game/IndustryPropsPack6/Maps/Showcase.MapBuildDataRegistry:DeprecatedTexture271F99204D935FA2627F09A82AE08C84 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.22-21.18.45:456][331]LogStaticMesh: Built static mesh [0.32s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02
+[2023.03.22-21.18.45:456][331]LogStaticMesh: Display: Building static mesh SM_Tarp02...
+[2023.03.22-21.18.45:456][331]LogStaticMesh: Built static mesh [0.40s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01
+[2023.03.22-21.18.45:456][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-21.18.45:551][331]LogStaticMesh: Display: Building static mesh SM_Tarp01...
+[2023.03.22-21.18.45:551][331]LogStaticMesh: Built static mesh [0.31s] /Game/Assets/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.SM_TrafficBarrel01
+[2023.03.22-21.18.45:551][331]LogStaticMesh: Display: Building static mesh SM_TrafficBarrel01...
+[2023.03.22-21.18.45:552][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.22-21.18.45:607][331]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.018952 seconds
+[2023.03.22-21.18.45:667][331]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/IndustryPropsPack6/Meshes/SM_WaterTank01) ...
+[2023.03.22-21.18.45:869][331]LogStaticMesh: Built static mesh [0.30s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02
+[2023.03.22-21.18.45:869][331]LogStaticMesh: Built static mesh [0.40s] /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01
+[2023.03.22-21.18.45:900][331]LogStaticMesh: Built static mesh [0.32s] /Game/Assets/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.SM_TrafficBarrel01
+[2023.03.22-21.18.46:504][331]LogStaticMesh: Built static mesh [1.13s] /Game/Assets/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.03.22-21.18.46:504][331]LogStaticMesh: Display: Building static mesh SM_WaterTank01...
+[2023.03.22-21.18.47:537][331]LogStaticMesh: Built static mesh [1.11s] /Game/Assets/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.03.22-21.18.47:700][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Maps/Showcase
+[2023.03.22-21.18.47:701][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/ShowcaseF0CE23A34A7AC3CE6E0F28A567FEE82F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Maps/Showcase.umap'
+[2023.03.22-21.18.48:090][331]LogFileHelpers: Saving map 'Showcase' took 2.600
+[2023.03.22-21.18.48:091][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-21.18.48:112][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.03.22-21.18.48:168][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Maps/Overview
+[2023.03.22-21.18.48:168][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/Overview9E4FF86D42253827CF569A9394E2AD8E.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Maps/Overview.umap'
+[2023.03.22-21.18.48:190][331]LogFileHelpers: Saving map 'Overview' took 0.099
+[2023.03.22-21.18.48:226][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_WaterTank01
+[2023.03.22-21.18.48:226][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_WaterTank01AE78DF8C43A3F6064E4933A3F5A4B91F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_WaterTank01.uasset'
+[2023.03.22-21.18.48:232][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_TrafficBarrel01_1
+[2023.03.22-21.18.48:232][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_TrafficBarrel01_173BBB43944C91187A5DC5BB988D3C8C7.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_TrafficBarrel01_1.uasset'
+[2023.03.22-21.18.48:235][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Tarp01_2
+[2023.03.22-21.18.48:235][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Tarp01_2C08998434E74A59AD08869A4928F6683.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Tarp01_2.uasset'
+[2023.03.22-21.18.48:239][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Tarp01_1
+[2023.03.22-21.18.48:239][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Tarp01_1282BAF834FBB576C6F1521B26ACEF47D.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Tarp01_1.uasset'
+[2023.03.22-21.18.48:242][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Rack01_1
+[2023.03.22-21.18.48:242][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Rack01_19702FE92431B5A96A8A8708981AF233E.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Rack01_1.uasset'
+[2023.03.22-21.18.48:262][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Newspaper01_2
+[2023.03.22-21.18.48:262][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Newspaper01_2FA51821D46573A0A7AE72FB9FF384F14.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Newspaper01_2.uasset'
+[2023.03.22-21.18.48:281][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Newspaper01_1
+[2023.03.22-21.18.48:281][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Newspaper01_1BE7B735B424E619802ED57B2051D21B6.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Newspaper01_1.uasset'
+[2023.03.22-21.18.48:285][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Hose01_2
+[2023.03.22-21.18.48:285][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Hose01_2E7BA661D4BBDA9A7D17819A01C787D8F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Hose01_2.uasset'
+[2023.03.22-21.18.48:288][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Hose01_1
+[2023.03.22-21.18.48:288][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Hose01_15FB0E0434A018CBA06CE77A531ECFA4B.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Hose01_1.uasset'
+[2023.03.22-21.18.48:290][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Gray
+[2023.03.22-21.18.48:290][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Gray271807B641A71FFB08CD2F911999EA36.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Gray.uasset'
+[2023.03.22-21.18.48:292][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Cartonbox01_2
+[2023.03.22-21.18.48:292][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Cartonbox01_2AAEEE72D425D899DE1D5F9A8BCA3513F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Cartonbox01_2.uasset'
+[2023.03.22-21.18.48:295][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Cartonbox01_1
+[2023.03.22-21.18.48:295][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Cartonbox01_177C4DAAF4021477194B424A471540705.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Cartonbox01_1.uasset'
+[2023.03.22-21.18.48:298][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_4
+[2023.03.22-21.18.48:298][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Box01_44A83920448EC60E866049AA26CC21615.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Box01_4.uasset'
+[2023.03.22-21.18.48:300][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_3
+[2023.03.22-21.18.48:301][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Box01_35127FF864C219C916CAC709C89715160.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Box01_3.uasset'
+[2023.03.22-21.18.48:304][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_2
+[2023.03.22-21.18.48:304][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Box01_2AC7306C943D944D628FFF5A94023E0E7.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Box01_2.uasset'
+[2023.03.22-21.18.48:306][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_1
+[2023.03.22-21.18.48:306][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Box01_14CC068F4418DCEC21FA98CA1E9E423C2.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Box01_1.uasset'
+[2023.03.22-21.18.48:309][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_6
+[2023.03.22-21.18.48:309][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Barrel01_69DA688C340E6AD1A153FB297F1089B9B.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Barrel01_6.uasset'
+[2023.03.22-21.18.48:312][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_5
+[2023.03.22-21.18.48:312][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Barrel01_56CC18D10415345490D891DB2BFF28B25.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Barrel01_5.uasset'
+[2023.03.22-21.18.48:315][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_4
+[2023.03.22-21.18.48:315][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Barrel01_4E8E52DCE460D5859E05DA98881A342EE.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Barrel01_4.uasset'
+[2023.03.22-21.18.48:319][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_3
+[2023.03.22-21.18.48:319][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Barrel01_32A799F9249B215F2668AD999D8EC5B4B.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Barrel01_3.uasset'
+[2023.03.22-21.18.48:324][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_2
+[2023.03.22-21.18.48:324][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Barrel01_202B521284F0F6B76DA778B9D71BE74C3.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Barrel01_2.uasset'
+[2023.03.22-21.18.48:326][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_1
+[2023.03.22-21.18.48:327][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/MI_Barrel01_132E23AE4424D35445799DDA3B7680ABD.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/MI_Barrel01_1.uasset'
+[2023.03.22-21.18.48:376][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Materials/BaseMaterial/M_base
+[2023.03.22-21.18.48:376][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/M_base06BE382449C33F946C5D5BA890885728.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Materials/BaseMaterial/M_base.uasset'
+[2023.03.22-21.18.49:142][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_WaterTank01
+[2023.03.22-21.18.49:142][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_WaterTank017F6BA4A44B41EF41DF1D2EBBE51FBE95.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_WaterTank01.uasset'
+[2023.03.22-21.18.49:181][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_TrafficBarrel01
+[2023.03.22-21.18.49:181][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_TrafficBarrel0153C830F24B6BC082995326B2D8F6F6B7.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.uasset'
+[2023.03.22-21.18.49:226][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp02
+[2023.03.22-21.18.49:226][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Tarp024CB7CDE5430B6A4DD0F74F879841DE26.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Tarp02.uasset'
+[2023.03.22-21.18.49:259][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp01
+[2023.03.22-21.18.49:259][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Tarp01584DEC094F0D5FC2273A22AB00D8FD59.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Tarp01.uasset'
+[2023.03.22-21.18.49:298][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack02
+[2023.03.22-21.18.49:298][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Rack02B7D36947480CDAAC4B78F9A1EFF2C7F9.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Rack02.uasset'
+[2023.03.22-21.18.49:338][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack01
+[2023.03.22-21.18.49:338][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Rack01A6477E034980B3237E5DF88D16AE675B.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Rack01.uasset'
+[2023.03.22-21.18.49:378][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Pallet01
+[2023.03.22-21.18.49:378][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Pallet016BCD3AAD4655E0F27495488D64A2E180.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Pallet01.uasset'
+[2023.03.22-21.18.49:410][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper03
+[2023.03.22-21.18.49:410][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Newspaper039CDED96C42B51DA08896048670E75544.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Newspaper03.uasset'
+[2023.03.22-21.18.49:436][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper02
+[2023.03.22-21.18.49:437][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Newspaper022F9A8B2348932C523C344C9537F954B4.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Newspaper02.uasset'
+[2023.03.22-21.18.49:463][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper01
+[2023.03.22-21.18.49:463][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Newspaper01203DF466416ADD9785BC5AA707B06A8F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Newspaper01.uasset'
+[2023.03.22-21.18.49:495][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Hose01
+[2023.03.22-21.18.49:495][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Hose013C7CBBC94FC8DB349EAB02B36C7DD300.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Hose01.uasset'
+[2023.03.22-21.18.49:525][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage09
+[2023.03.22-21.18.49:525][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage092F4D402E43F6DA6561E0359C5B453534.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage09.uasset'
+[2023.03.22-21.18.49:561][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage08
+[2023.03.22-21.18.49:561][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage0857D45216423EBB2A487791A923C6E3F7.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage08.uasset'
+[2023.03.22-21.18.49:596][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage07
+[2023.03.22-21.18.49:596][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage075475DF324343BFE3396EB2B66A6204E1.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage07.uasset'
+[2023.03.22-21.18.49:626][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage06
+[2023.03.22-21.18.49:626][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage06B9A3EFE14F08A8170F7E5A83D8DAE1C9.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage06.uasset'
+[2023.03.22-21.18.49:655][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage05
+[2023.03.22-21.18.49:655][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage05C506CB1C4A8ADB82573A988391067E4F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage05.uasset'
+[2023.03.22-21.18.49:680][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage04
+[2023.03.22-21.18.49:680][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage04281E58374C6AC4D63F97EA9CF182EA49.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage04.uasset'
+[2023.03.22-21.18.49:706][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage03
+[2023.03.22-21.18.49:706][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage03729D411E424A9EAFD55BB3BD6D07B558.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage03.uasset'
+[2023.03.22-21.18.49:731][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage02
+[2023.03.22-21.18.49:731][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage0253EDBFBA4370ED05E114F685E0166CA0.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage02.uasset'
+[2023.03.22-21.18.49:757][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage01
+[2023.03.22-21.18.49:757][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonGarbage01EFC96A9D4A84C0DBD553D682D3480D9A.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage01.uasset'
+[2023.03.22-21.18.49:784][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonBox03
+[2023.03.22-21.18.49:784][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonBox034C47DD2A4DCE21C614338885FF1273DC.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonBox03.uasset'
+[2023.03.22-21.18.49:819][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonBox02
+[2023.03.22-21.18.49:819][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonBox029A0CF180440531A696D059A693C70235.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonBox02.uasset'
+[2023.03.22-21.18.49:837][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonBox01
+[2023.03.22-21.18.49:837][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_CartonBox019E0CE56648843D35875D2C8F85D41E93.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_CartonBox01.uasset'
+[2023.03.22-21.18.49:880][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Box03
+[2023.03.22-21.18.49:880][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Box030C26A6014B061A3E0E3EC285D194E516.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Box03.uasset'
+[2023.03.22-21.18.49:904][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Box02
+[2023.03.22-21.18.49:904][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Box024EE117C248A184E16CD41B8E202E26FC.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Box02.uasset'
+[2023.03.22-21.18.49:932][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Box01
+[2023.03.22-21.18.49:933][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Box01D646020547FB71D7FBBB8A84849F94F7.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Box01.uasset'
+[2023.03.22-21.18.49:997][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel04
+[2023.03.22-21.18.49:997][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Barrel04AEF45E284E598F7AEAB4BC93762A6A4E.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Barrel04.uasset'
+[2023.03.22-21.18.50:021][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel03
+[2023.03.22-21.18.50:021][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Barrel03366B4DA84ED7CE4BD54AF0A4F3418081.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Barrel03.uasset'
+[2023.03.22-21.18.50:049][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel02
+[2023.03.22-21.18.50:049][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Barrel021F3D3C924D66029CCEA88DA4E8E3668E.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Barrel02.uasset'
+[2023.03.22-21.18.50:079][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel01
+[2023.03.22-21.18.50:079][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/SM_Barrel0188577AB743A3E6134844AFB7A47FA703.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Meshes/SM_Barrel01.uasset'
+[2023.03.22-21.18.50:209][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_WaterTank01_SRM
+[2023.03.22-21.18.50:209][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_WaterTank01_SRM6F8BBF0B41E6323EC1A7318069CD9879.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_WaterTank01_SRM.uasset'
+[2023.03.22-21.18.50:282][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_WaterTank01_N
+[2023.03.22-21.18.50:282][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_WaterTank01_N950056824CB4D2BA87268BBA6445C6C0.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_WaterTank01_N.uasset'
+[2023.03.22-21.18.50:400][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_WaterTank01_D
+[2023.03.22-21.18.50:400][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_WaterTank01_D30BBDC3C4806B1DC2BEF3F8C165621BD.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_WaterTank01_D.uasset'
+[2023.03.22-21.18.50:532][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_SRM
+[2023.03.22-21.18.50:533][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_TrafficBarrel01_SRM85A75FDC42DFD921D6361C940623F36D.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_SRM.uasset'
+[2023.03.22-21.18.50:546][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_N
+[2023.03.22-21.18.50:546][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_TrafficBarrel01_N3B90FA304DD8ECA0C66C289258A41D50.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_N.uasset'
+[2023.03.22-21.18.50:637][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_D
+[2023.03.22-21.18.50:638][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_TrafficBarrel01_DBD31A0474EC8C71FAC2ED29E8DDEBA9A.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_D.uasset'
+[2023.03.22-21.18.50:915][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Tarp02_N
+[2023.03.22-21.18.50:915][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Tarp02_N5BA2E0474897AAF5DE80E4AA1AE815EB.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Tarp02_N.uasset'
+[2023.03.22-21.18.51:195][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Tarp02_D
+[2023.03.22-21.18.51:196][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Tarp02_DBD5B24BA441CBA08D88AA68F54020218.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Tarp02_D.uasset'
+[2023.03.22-21.18.51:428][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Tarp01_SRM
+[2023.03.22-21.18.51:428][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Tarp01_SRM3BC2E6824F0D4734C486EA9AE600C9DF.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Tarp01_SRM.uasset'
+[2023.03.22-21.18.51:616][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Tarp01_N
+[2023.03.22-21.18.51:617][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Tarp01_NBCFEF3F7453674BE6BC6A5BF7132B2A0.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Tarp01_N.uasset'
+[2023.03.22-21.18.52:058][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Tarp01_D
+[2023.03.22-21.18.52:058][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Tarp01_DF2C83F3B4D145339B78D8D8BA51C4DFC.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Tarp01_D.uasset'
+[2023.03.22-21.18.52:092][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Rack_SRM
+[2023.03.22-21.18.52:092][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Rack_SRM440A529F4C5EDADC2026D48C9C0E8543.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Rack_SRM.uasset'
+[2023.03.22-21.18.52:120][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Rack_N
+[2023.03.22-21.18.52:120][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Rack_N1455938149184D4D0A0E7AA4E4E5DA0C.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Rack_N.uasset'
+[2023.03.22-21.18.52:159][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Rack_D
+[2023.03.22-21.18.52:159][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Rack_D8BB7FE3B46577454A21B66912FF629B1.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Rack_D.uasset'
+[2023.03.22-21.18.52:199][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Newspaper01_SRM
+[2023.03.22-21.18.52:199][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Newspaper01_SRM48D7BAE24845F0E7019F0684EDE4B6D5.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Newspaper01_SRM.uasset'
+[2023.03.22-21.18.52:236][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Newspaper01_N
+[2023.03.22-21.18.52:236][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Newspaper01_N213D523441E793A218668DB62C07AE45.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Newspaper01_N.uasset'
+[2023.03.22-21.18.52:274][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Newspaper01_D
+[2023.03.22-21.18.52:274][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Newspaper01_DA58CE6154A300D675E6DFD8E43587732.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Newspaper01_D.uasset'
+[2023.03.22-21.18.52:278][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Hose_SRM
+[2023.03.22-21.18.52:278][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Hose_SRMB77914E9477B3518E9FF0BA4269787B4.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Hose_SRM.uasset'
+[2023.03.22-21.18.52:284][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Hose_N
+[2023.03.22-21.18.52:284][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Hose_N7DF314484DE8435D54C671A53B2F0C1C.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Hose_N.uasset'
+[2023.03.22-21.18.52:288][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Hose_D
+[2023.03.22-21.18.52:288][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Hose_D799566FD47D568B2D80115B952BEFC99.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Hose_D.uasset'
+[2023.03.22-21.18.52:535][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_SRM
+[2023.03.22-21.18.52:536][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Cartonbox01_SRMC68165D14D059E872541A591455EBEDD.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_SRM.uasset'
+[2023.03.22-21.18.52:794][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_N
+[2023.03.22-21.18.52:794][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Cartonbox01_NC3D694044319EE433C4ADD9206C96BB3.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_N.uasset'
+[2023.03.22-21.18.52:964][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_D
+[2023.03.22-21.18.52:964][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Cartonbox01_D240572AB433976803A32A89B8340C857.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_D.uasset'
+[2023.03.22-21.18.53:142][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Box01_SRM
+[2023.03.22-21.18.53:142][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Box01_SRM3A48BDFC4B95AD268B5226A577BBDEDF.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Box01_SRM.uasset'
+[2023.03.22-21.18.53:385][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Box01_N
+[2023.03.22-21.18.53:386][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Box01_NE90CAE674EFFD9CCFF69BDA94D4C2763.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Box01_N.uasset'
+[2023.03.22-21.18.53:607][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Box01_D
+[2023.03.22-21.18.53:607][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Box01_D3A299C02450D56156AFD5296727E0686.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Box01_D.uasset'
+[2023.03.22-21.18.53:797][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Barrel01_SRM
+[2023.03.22-21.18.53:797][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Barrel01_SRM7247E1DD4865C230397E3AA71186D370.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Barrel01_SRM.uasset'
+[2023.03.22-21.18.54:019][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Barrel01_N
+[2023.03.22-21.18.54:019][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Barrel01_NF37EB2F94DFA19826CBA0A930DC2CB69.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Barrel01_N.uasset'
+[2023.03.22-21.18.54:199][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/T_Barrel01_D
+[2023.03.22-21.18.54:199][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Barrel01_DD69992C3408B0E3B810A2EA2D1A7DB8F.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/T_Barrel01_D.uasset'
+[2023.03.22-21.18.54:509][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_MASK2
+[2023.03.22-21.18.54:509][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_MASK264C254544D8577BE3DCA44A9EE57EF37.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/T_MASK2.uasset'
+[2023.03.22-21.18.54:513][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_MASK1
+[2023.03.22-21.18.54:513][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_MASK1C5C73EED4BD0F53B3FECA2876C54CEBC.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/T_MASK1.uasset'
+[2023.03.22-21.18.54:519][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_gradient_D
+[2023.03.22-21.18.54:519][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_gradient_D692F54374CE1DD667F4562AB757731B0.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/T_gradient_D.uasset'
+[2023.03.22-21.18.54:579][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_Dirt_N
+[2023.03.22-21.18.54:579][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/T_Dirt_N5B5F7ADF49CB138DB5D381A59476EFD2.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/T_Dirt_N.uasset'
+[2023.03.22-21.18.54:705][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/TC_HDR02
+[2023.03.22-21.18.54:705][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/TC_HDR02378C9BA04BA1645FEF9F8BAAC6374FD9.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/TC_HDR02.uasset'
+[2023.03.22-21.18.54:729][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/TC_HDR01
+[2023.03.22-21.18.54:730][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/TC_HDR0108B8E62641A319BF796ADA8C354257CF.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/TC_HDR01.uasset'
+[2023.03.22-21.18.54:733][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/B_N
+[2023.03.22-21.18.54:733][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/B_NC2B6E910428BFD92176B09A0A80AF76C.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/B_N.uasset'
+[2023.03.22-21.18.54:736][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/BW_D
+[2023.03.22-21.18.54:736][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/BW_D8515641C420073EF3360AEBF40513900.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/BW_D.uasset'
+[2023.03.22-21.18.54:738][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/BG_D
+[2023.03.22-21.18.54:738][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/BG_DBD0C3BEE42CAE90C8B6B6DB822FED905.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/BG_D.uasset'
+[2023.03.22-21.18.54:740][331]LogSavePackage: Moving output files for package: /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/BB_D
+[2023.03.22-21.18.54:740][331]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Saved/BB_D3500313940C3E16302F2C08F9E89FA55.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0/Content/Assets/IndustryPropsPack6/Textures/BaseTextures/BB_D.uasset'
+[2023.03.22-21.18.55:258][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.22-21.18.55:268][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.22-21.18.55:279][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.22-21.18.55:473][331]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.22-21.18.55:473][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/B_N.B_N
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/BB_D.BB_D
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/BG_D.BG_D
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_MASK1.T_MASK1
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_MASK2.T_MASK2
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Material /Game/Assets/IndustryPropsPack6/Materials/BaseMaterial/M_base.M_base
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Barrel01_D.T_Barrel01_D
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Barrel01_N.T_Barrel01_N
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Barrel01_SRM.T_Barrel01_SRM
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_2.MI_Barrel01_2
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_3.MI_Barrel01_3
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_4.MI_Barrel01_4
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_5.MI_Barrel01_5
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_6.MI_Barrel01_6
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Box01_D.T_Box01_D
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Box01_N.T_Box01_N
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Box01_SRM.T_Box01_SRM
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_1.MI_Box01_1
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_3.MI_Box01_3
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_4.MI_Box01_4
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_D.T_Cartonbox01_D
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_N.T_Cartonbox01_N
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Cartonbox01_SRM.T_Cartonbox01_SRM
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Cartonbox01_1.MI_Cartonbox01_1
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Cartonbox01_2.MI_Cartonbox01_2
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Gray.MI_Gray
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Hose_D.T_Hose_D
+[2023.03.22-21.18.55:474][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Hose_N.T_Hose_N
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Hose_SRM.T_Hose_SRM
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Hose01_2.MI_Hose01_2
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Newspaper01_D.T_Newspaper01_D
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Newspaper01_N.T_Newspaper01_N
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Newspaper01_SRM.T_Newspaper01_SRM
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Newspaper01_1.MI_Newspaper01_1
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Rack_D.T_Rack_D
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Rack_N.T_Rack_N
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Rack_SRM.T_Rack_SRM
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Rack01_1.MI_Rack01_1
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Tarp01_N.T_Tarp01_N
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Tarp01_SRM.T_Tarp01_SRM
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Tarp02_D.T_Tarp02_D
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Tarp01_2.MI_Tarp01_2
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_D.T_TrafficBarrel01_D
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_N.T_TrafficBarrel01_N
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_TrafficBarrel01_SRM.T_TrafficBarrel01_SRM
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_TrafficBarrel01_1.MI_TrafficBarrel01_1
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Barrel01_1.MI_Barrel01_1
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel01.SM_Barrel01
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel02.SM_Barrel02
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel03.SM_Barrel03
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Tarp01_D.T_Tarp01_D
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Tarp01_1.MI_Tarp01_1
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Barrel04.SM_Barrel04
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Box01_2.MI_Box01_2
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Box01.SM_Box01
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Box02.SM_Box02
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Box03.SM_Box03
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonBox01.SM_CartonBox01
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonBox02.SM_CartonBox02
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonBox03.SM_CartonBox03
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage01.SM_CartonGarbage01
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage02.SM_CartonGarbage02
+[2023.03.22-21.18.55:475][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage03.SM_CartonGarbage03
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage04.SM_CartonGarbage04
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage05.SM_CartonGarbage05
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage06.SM_CartonGarbage06
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage07.SM_CartonGarbage07
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage08.SM_CartonGarbage08
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_CartonGarbage09.SM_CartonGarbage09
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Hose01_1.MI_Hose01_1
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Hose01.SM_Hose01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper01.SM_Newspaper01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper02.SM_Newspaper02
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Newspaper03.SM_Newspaper03
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Pallet01.SM_Pallet01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack01.SM_Rack01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Rack02.SM_Rack02
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp01.SM_Tarp01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_Tarp02.SM_Tarp02
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.SM_TrafficBarrel01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_WaterTank01_D.T_WaterTank01_D
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_WaterTank01_N.T_WaterTank01_N
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_WaterTank01_SRM.T_WaterTank01_SRM
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_WaterTank01.MI_WaterTank01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating StaticMesh /Game/Assets/IndustryPropsPack6/Meshes/SM_WaterTank01.SM_WaterTank01
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating World /Game/Assets/IndustryPropsPack6/Maps/Showcase.Showcase
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating World /Game/Assets/IndustryPropsPack6/Maps/Overview.Overview
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/IndustryPropsPack6/Materials/MI_Newspaper01_2.MI_Newspaper01_2
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/T_Tarp02_N.T_Tarp02_N
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_gradient_D.T_gradient_D
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/T_Dirt_N.T_Dirt_N
+[2023.03.22-21.18.55:476][331]LogContentValidation: Display: Validating TextureCube /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/TC_HDR02.TC_HDR02
+[2023.03.22-21.18.55:477][331]LogContentValidation: Display: Validating TextureCube /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/TC_HDR01.TC_HDR01
+[2023.03.22-21.18.55:477][331]LogContentValidation: Display: Validating Texture2D /Game/Assets/IndustryPropsPack6/Textures/BaseTextures/BW_D.BW_D
+[2023.03.22-21.19.44:349][774]LogDerivedDataCache: C:/Users/Windows11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.665 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.22-21.20.52:577][469]LogShaderCompilers: Display: ================================================
+[2023.03.22-21.20.52:577][469]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-21.20.52:577][469]LogShaderCompilers: Display: Total job queries 4474, among them cache hits 20 (0.45%)
+[2023.03.22-21.20.52:577][469]LogShaderCompilers: Display: Tracking 1097 distinct input hashes that result in 393 distinct outputs (35.82%)
+[2023.03.22-21.20.52:578][469]LogShaderCompilers: Display: RAM used: 1.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2023.03.22-21.20.52:578][469]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.22-21.20.52:578][469]LogShaderCompilers: Display: Shaders Compiled: 4461
+[2023.03.22-21.20.52:578][469]LogShaderCompilers: Display: Jobs assigned 1177, completed 1097 (93.20%)
+[2023.03.22-21.20.52:578][469]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Time job spent in pending queue: average 64.10 s, longest 135.05 s
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Job execution time: average 8.32 s, max 14.58 s
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Job life time (pending + execution): average 67.86 s, max 135.05
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 135.05 s
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Jobs were issued in 241 batches (only local compilation was used), average 4.88 jobs/batch
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Average processing rate: 8.12 jobs/sec
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Effective parallelization: 6.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   31 times, average 1.35 sec, max 2.17 sec, min 0.90 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   11 times, average 1.32 sec, max 1.70 sec, min 1.13 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   13 times, average 1.26 sec, max 1.74 sec, min 1.07 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   13 times, average 1.25 sec, max 1.58 sec, min 1.00 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled   14 times, average 1.24 sec, max 1.92 sec, min 1.00 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.88% of total time (compiled   31 times, average 1.35 sec, max 2.17 sec, min 0.90 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.09% of total time (compiled   38 times, average 0.92 sec, max 1.58 sec, min 0.38 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.97% of total time (compiled   35 times, average 0.97 sec, max 1.27 sec, min 0.46 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.88% of total time (compiled   33 times, average 1.01 sec, max 1.36 sec, min 0.71 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 3.70% of total time (compiled   35 times, average 0.91 sec, max 1.43 sec, min 0.46 sec)
+[2023.03.22-21.20.52:594][469]LogShaderCompilers: Display: ================================================
+[2023.03.22-21.22.17:986][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.22-21.22.26:627][592]LogLinker: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_MASK01': Can't find file.
+[2023.03.22-21.22.26:628][592]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_MASK01'
+[2023.03.22-21.22.26:628][592]LogLinker: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_MASK02': Can't find file.
+[2023.03.22-21.22.26:628][592]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_MASK02'
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_MASK03': Can't find file.
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_MASK03'
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_N': Can't find file.
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_N'
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_RGB': Can't find file.
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_Tacticia_m02_tacticia_dronebomb_skin02_RGB'
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to load '/Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/Tacticia_DroneBomb_EmissiveMask': Can't find file.
+[2023.03.22-21.22.26:629][592]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/Tacticia_DroneBomb_EmissiveMask'
+[2023.03.22-21.22.26:747][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/T_TestML_Mask.T_TestML_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:747][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Blank_N.T_Blank_N (TFO_BC5, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:747][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/T_Black_Linear.T_Black_Linear (TFO_AutoDXT, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:747][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01_N.T_AtmosphericCloudNoise01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:747][592]LogMaterial: Display: Missing cached shadermap for M_Belica_DroneBomb in PCD3D_SM5, Default, SM5 (DDC key hash: FECEBEE73095E0DE5C0E8422F231B7F086FBAC21), compiling. 
+[2023.03.22-21.22.26:806][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise03.T_AtmosphericCloudNoise03 (BGRA8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:806][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01.T_AtmosphericCloudNoise01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:806][592]LogMaterial: Warning: [AssetLog] D:\fps\Rok2FPS-AL_HK\Main\StartingProject 5.0\Content\ParagonLtBelica\Characters\Heroes\Belica\Materials\M_Belica_DroneBomb.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function ML_RoughPlastic: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property Normal
+	Function ML_LowContrastHardMetal: (Node MakeMaterialAttributes) Error on property Normal
+	Function ML_Metal_Braided: (Node MakeMaterialAttributes) Error on property Normal
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function MatLayerBlend_Emissive: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	(Node TextureObject) Texture Object> Requires valid texture
+	Function ML_RoughPlastic: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_Primer_Colored_Metal: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_Rubber_LowContrast: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_LowContrastHardMetal: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function ML_Metal_Braided: (Node MakeMaterialAttributes) Error on property BaseColor
+	Function MF_CharacterEffects: (Node MakeMaterialAttributes) Error on property EmissiveColor
+	Function ML_RoughPlastic: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property Metallic
+	Function ML_Primer_Colored_Metal: (Node MakeMaterialAttributes) Error on property Metallic
+	Function ML_Rubber_LowContrast: (Node MakeMaterialAttributes) Error on property Metallic
+	Function ML_Metal_Braided: (Node MakeMaterialAttributes) Error on property Metallic
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property Specular
+	Function MF_OrionCharacterAO: (Node MakeMaterialAttributes) Error on property Specular
+	Function ML_RoughPlastic: (Node MakeMaterialAttributes) Error on property Roughness
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property Roughness
+	Function ML_Primer_Colored_Metal: (Node MakeMaterialAttributes) Error on property Roughness
+	Function ML_Rubber_LowContrast: (Node MakeMaterialAttributes) Error on property Roughness
+	Function ML_LowContrastHardMetal: (Node MakeMaterialAttributes) Error on property Roughness
+	Function ML_Metal_Braided: (Node MakeMaterialAttributes) Error on property Roughness
+	Function MF_OrionCharacterAO: (Node MakeMaterialAttributes) Error on property Roughness
+	Function MF_OrionCharacterAO: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+	Function MatLayerBlend_TenLayerBlend: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+
+[2023.03.22-21.22.26:897][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Blue_Metal02.T_Blue_Metal02 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.26:897][592]LogMaterial: Display: Missing cached shadermap for M_Belica_DroneBomb_Everfrost in PCD3D_SM5, Default, SM5 (DDC key hash: FE2F3848389C1274A16D9D499C6A1224804ADDAC), compiling. 
+[2023.03.22-21.22.27:129][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_hardmetal2_D.T_hardmetal2_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.27:635][592]LogSkeletalMesh: Building Skeletal Mesh Belica_Drone...
+[2023.03.22-21.22.27:635][592]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Assets/Belica_Drone/Meshes/Belica_Drone.Belica_Drone
+[2023.03.22-21.22.27:635][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Patterns/T_Lame_N.T_Lame_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.27:635][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Patterns/T_Lame_D.T_Lame_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.27:773][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_ML_Metal_Braided_01_MASK.T_ML_Metal_Braided_01_MASK (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.27:773][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_ML_Metal_Braided_01_N.T_ML_Metal_Braided_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:038][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Rubber_2_N.T_Rubber_2_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:239][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Special/T_small_Gradient.T_small_Gradient (TFO_AutoDXT, 256X64 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:239][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Heroes/Belica/Textures/T_SlashMask_A_NoClamp.T_SlashMask_A_NoClamp (TFO_AutoDXT, 512X32 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:314][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Rough_Plastic_N.T_Rough_Plastic_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:440][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Rubber/T_Rubber_LowContrast.T_Rubber_LowContrast (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:641][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Rough_Metal_N.T_Rough_Metal_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:641][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/T_Soft_Noise.T_Soft_Noise (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:842][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Synthetics/T_Rough_Plastic_D.T_Rough_Plastic_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.28:842][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialLayers/Metal/T_Primer_Black_Metal2.T_Primer_Black_Metal2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.22-21.22.29:053][592]LogTexture: Display: Building textures: /Game/ParagonLtBelica/Characters/Global/MaterialFunctions/Textures/T_TechPatternA.T_TechPatternA (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
