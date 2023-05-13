@@ -1950,3 +1950,75 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.13-19.12.56:916][653]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fdea4c22-3e2a-4c57-b72a-78e45beb9e0e}, Name=Głośniki (4- USB PnP Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=43.46
 [2023.05.13-19.12.56:953][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.05.13-19.12.56:984][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.13-19.25.45:028][471]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-19.25.46:784][471]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.05.13-19.25.46:791][471]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.05.13-19.25.46:794][471]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.05.13-19.25.46:823][472]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.05.13-19.25.56:477][194]LogContentBrowser: Attempting asset rename: NewBlueprint -> FPS_Character
+[2023.05.13-19.25.56:582][194]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.05.13-19.26.31:540][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS_Character.FPS_Character
+[2023.05.13-19.26.31:579][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-19.26.33:794][779]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.05.13-19.26.33:794][779]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001572s (0.253833s overbudget)
+[2023.05.13-19.26.33:996][779]LogViewport: Scene viewport resized to 1040x646, mode Windowed.
+[2023.05.13-19.26.54:012][890]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.13-19.26.57:620][ 85]LogSlate: Took 0.008011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.13-19.26.59:708][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_clothes_SpecularSmoothness.T_01_clothes_SpecularSmoothness (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.26.59:708][295]LogMaterial: Display: Missing cached shadermap for M_Cloths_4K in PCD3D_SM5, Default, SM5 (DDC key hash: 89B038D190EBC524C5BE521F05ED91A4148EC190), compiling. 
+[2023.05.13-19.26.59:749][295]LogMaterial: Display: Missing cached shadermap for M_Gloves_4K in PCD3D_SM5, Default, SM5 (DDC key hash: 6BE26F03B0A21087963A15D9D4AB523F6B043029), compiling. 
+[2023.05.13-19.26.59:786][295]LogMaterial: Display: Missing cached shadermap for M_Hands_Tanned_4K in PCD3D_SM5, Default, SM5 (DDC key hash: F1CDD8560A0558CF8D424AE96F8F1F521858BAD0), compiling. 
+[2023.05.13-19.27.00:080][295]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Mesh_Arms) ...
+[2023.05.13-19.27.01:076][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_Camo_AlbedoTransparency.T_01_gloves_Camo_AlbedoTransparency (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.01:076][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_Camo_clothes_AlbedoTransparency.T_01_Camo_clothes_AlbedoTransparency (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.01:076][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_Normal.T_01_gloves_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.01:076][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_clothes_Normal.T_01_clothes_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.02:083][295]LogSkeletalMesh: Building Skeletal Mesh Mesh_Arms...
+[2023.05.13-19.27.02:083][295]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Assets/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2023.05.13-19.27.02:307][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_gloves_SpecularSmoothness.T_01_gloves_SpecularSmoothness (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.02:307][295]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_SpecularSmoothness.T_01_hands_SpecularSmoothness (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.02:587][300]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_Albedo_Grey.T_01_hands_Albedo_Grey (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.02:898][305]LogTexture: Display: Building textures: /Game/Assets/Characters/Arms/Arms_Textures_And_Mats/Textures/4K/T_01_hands_Normal.T_01_hands_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: ================================================
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Total job queries 1385, among them cache hits 3 (0.22%)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Tracking 1288 distinct input hashes that result in 618 distinct outputs (47.98%)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: RAM used: 1.87 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Shaders Compiled: 1382
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Jobs assigned 1328, completed 1288 (96.99%)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Average time worker was idle: 28.47 s
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Time job spent in pending queue: average 108.51 s, longest 219.59 s
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Job execution time: average 12.08 s, max 29.74 s
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Job life time (pending + execution): average 123.95 s, max 220.40
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 225.46 s
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Jobs were issued in 275 batches (only local compilation was used), average 4.83 jobs/batch
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Average processing rate: 5.71 jobs/sec
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Effective parallelization: 7.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 2.43 sec, max 5.81 sec, min 1.07 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   15 times, average 2.37 sec, max 5.89 sec, min 1.06 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   15 times, average 2.36 sec, max 5.81 sec, min 1.04 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled   15 times, average 2.33 sec, max 5.80 sec, min 1.05 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled   15 times, average 2.28 sec, max 5.53 sec, min 1.01 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.15% of total time (compiled   43 times, average 1.63 sec, max 5.95 sec, min 0.87 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.04% of total time (compiled   43 times, average 1.59 sec, max 5.90 sec, min 1.02 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 3.96% of total time (compiled   43 times, average 1.56 sec, max 5.67 sec, min 1.02 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.85% of total time (compiled   43 times, average 1.51 sec, max 5.68 sec, min 0.90 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.84% of total time (compiled   43 times, average 1.51 sec, max 5.45 sec, min 0.96 sec)
+[2023.05.13-19.27.04:362][358]LogShaderCompilers: Display: ================================================
+[2023.05.13-19.27.44:025][754]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.13-19.28.26:064][ 81]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.13-19.28.45:968][162]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.05.13-19.29.31:414][863]BlueprintLog: New page: Compile FPS_Character
+[2023.05.13-19.29.31:580][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.05.13-19.29.35:291][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS_Character" FILE="../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0 - 2/Content/FPS_Character.uasset" SILENT=true
+[2023.05.13-19.29.35:349][ 61]LogSavePackage: Moving output files for package: /Game/FPS_Character
+[2023.05.13-19.29.35:349][ 61]LogSavePackage: Moving '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0 - 2/Saved/FPS_CharacterDE9318E04F85D73F092EA4BBADFF9616.tmp' to '../../../../../../fps/Rok2FPS-AL_HK/Main/StartingProject 5.0 - 2/Content/FPS_Character.uasset'
+[2023.05.13-19.29.35:362][ 61]AssetCheck: New page: Asset Save: FPS_Character
+[2023.05.13-19.29.35:362][ 61]LogContentValidation: Display: Validating Blueprint /Game/FPS_Character.FPS_Character
+[2023.05.13-19.29.37:019][156]LogSlate: Window 'FPS_Character' being destroyed
+[2023.05.13-19.29.37:024][156]LogSlate: Window 'FPS_Character' being destroyed
+[2023.05.13-19.29.37:049][156]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-19.29.37:049][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
